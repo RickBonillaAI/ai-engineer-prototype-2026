@@ -1,2 +1,2 @@
-# ai-engineer-prototype-2026
-90-day experiment: Learning to build practical AI from zero- April 2026
+Thie is my 90-day AI engineer prototype experiment starting April 2026. No experience yet-learning step by step with Grok
+
